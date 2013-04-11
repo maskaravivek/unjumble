@@ -1,0 +1,250 @@
+1.	9.2	The Shawshank Redemption (1994)	938,229
+2.	9.2	The Godfather (1972)	671,743
+3.	9.0	The Godfather: Part II (1974)	432,967
+4.	8.9	Pulp Fiction (1994)	730,645
+5.	8.9	The Good, the Bad and the Ugly (1966)	285,732
+6.	8.9	12 Angry Men (1957)	230,818
+7.	8.9	The Dark Knight (2008)	914,650
+8.	8.9	Schindler's List (1993)	482,314
+9.	8.8	The Lord of the Rings: The Return of the King (2003)	670,646
+10.	8.8	Fight Club (1999)	714,964
+11.	8.8	Star Wars: Episode V - The Empire Strikes Back (1980)	461,371
+12.	8.8	The Lord of the Rings: The Fellowship of the Ring (2001)	695,789
+13.	8.8	One Flew Over the Cuckoo's Nest (1975)	392,244
+14.	8.7	Inception (2010)	730,237
+15.	8.7	Goodfellas (1990)	409,838
+16.	8.7	Star Wars (1977)	517,366
+17.	8.7	Seven Samurai (1954)	146,451
+18.	8.7	Forrest Gump (1994)	615,340
+19.	8.7	The Matrix (1999)	678,141
+20.	8.7	The Lord of the Rings: The Two Towers (2002)	602,219
+21.	8.7	City of God (2002)	307,816
+22.	8.6	Se7en (1995)	546,078
+23.	8.6	Once Upon a Time in the West (1968)	129,444
+24.	8.6	The Silence of the Lambs (1991)	457,734
+25.	8.6	Casablanca (1942)	251,888
+26.	8.6	The Usual Suspects (1995)	429,961
+27.	8.6	Raiders of the Lost Ark (1981)	393,225
+28.	8.6	Rear Window (1954)	189,706
+29.	8.6	It's a Wonderful Life (1946)	162,838
+30.	8.6	Psycho (1960)	238,674
+31.	8.6	Léon: The Professional (1994)	398,718
+32.	8.5	Sunset Blvd. (1950)	85,563
+33.	8.5	American History X (1998)	432,561
+34.	8.5	Memento (2000)	493,873
+35.	8.5	Apocalypse Now (1979)	275,950
+36.	8.5	Terminator 2: Judgment Day (1991)	424,743
+37.	8.5	Saving Private Ryan (1998)	480,716
+38.	8.5	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	226,280
+39.	8.5	City Lights (1931)	54,672
+40.	8.5	Alien (1979)	318,818
+41.	8.5	Django Unchained (2012)	256,911
+42.	8.5	North by Northwest (1959)	139,054
+43.	8.5	Spirited Away (2001)	210,345
+44.	8.5	Modern Times (1936)	69,217
+45.	8.5	Citizen Kane (1941)	197,162
+46.	8.5	The Dark Knight Rises (2012)	565,294
+47.	8.5	The Shining (1980)	332,232
+48.	8.5	Back to the Future (1985)	376,461
+49.	8.4	The Pianist (2002)	259,341
+50.	8.4	The Departed (2006)	476,724
+51.	8.4	M (1931)	61,982
+52.	8.4	Life Is Beautiful (1997)	205,870
+53.	8.4	Vertigo (1958)	144,928
+54.	8.4	American Beauty (1999)	494,389
+55.	8.4	Taxi Driver (1976)	284,284
+56.	8.4	Paths of Glory (1957)	70,264
+57.	8.4	Double Indemnity (1944)	59,058
+58.	8.4	Aliens (1986)	289,201
+59.	8.4	Toy Story 3 (2010)	276,810
+60.	8.4	WALL·E (2008)	375,089
+61.	8.4	The Lives of Others (2006)	147,061
+62.	8.4	The Intouchables (2011)	162,483
+63.	8.4	Gladiator (2000)	526,628
+64.	8.4	The Green Mile (1999)	389,328
+65.	8.4	A Clockwork Orange (1971)	317,720
+66.	8.4	Amélie (2001)	313,906
+67.	8.4	The Great Dictator (1940)	68,074
+68.	8.4	The Prestige (2006)	430,872
+69.	8.4	Lawrence of Arabia (1962)	117,710
+70.	8.4	To Kill a Mockingbird (1962)	128,195
+71.	8.4	Reservoir Dogs (1992)	368,283
+72.	8.4	Das Boot (1981)	106,212
+73.	8.4	The Third Man (1949)	73,342
+74.	8.4	Requiem for a Dream (2000)	335,892
+75.	8.3	Cinema Paradiso (1988)	81,129
+76.	8.3	The Treasure of the Sierra Madre (1948)	49,703
+77.	8.3	Eternal Sunshine of the Spotless Mind (2004)	388,423
+78.	8.3	The Lion King (1994)	312,301
+79.	8.3	Once Upon a Time in America (1984)	129,003
+80.	8.3	Star Wars: Episode VI - Return of the Jedi (1983)	360,389
+81.	8.3	Full Metal Jacket (1987)	270,152
+82.	8.3	L.A. Confidential (1997)	263,635
+83.	8.3	Chinatown (1974)	130,629
+84.	8.3	Braveheart (1995)	425,470
+85.	8.3	Oldboy (2003)	188,658
+86.	8.3	Monty Python and the Holy Grail (1975)	238,947
+87.	8.3	Singin' in the Rain (1952)	88,918
+88.	8.3	Some Like It Hot (1959)	107,541
+89.	8.3	Metropolis (1927)	66,613
+90.	8.3	Amadeus (1984)	162,497
+91.	8.3	Bicycle Thieves (1948)	50,118
+92.	8.3	Rashomon (1950)	61,815
+93.	8.3	Princess Mononoke (1997)	118,825
+94.	8.3	2001: A Space Odyssey (1968)	245,752
+95.	8.3	All About Eve (1950)	51,620
+96.	8.3	Unforgiven (1992)	169,002
+97.	8.3	The Sting (1973)	104,740
+98.	8.3	Indiana Jones and the Last Crusade (1989)	297,972
+99.	8.3	The Apartment (1960)	62,567
+100.	8.3	Raging Bull (1980)	143,977
+101.	8.3	The Bridge on the River Kwai (1957)	91,875
+102.	8.3	Witness for the Prosecution (1957)	31,478
+103.	8.3	Grave of the Fireflies (1988)	65,198
+104.	8.3	Die Hard (1988)	348,481
+105.	8.3	Batman Begins (2005)	533,864
+106.	8.3	A Separation (2011)	79,292
+107.	8.3	Yojimbo (1961)	44,867
+108.	8.3	Inglourious Basterds (2009)	434,557
+109.	8.3	Snatch. (2000)	343,521
+110.	8.3	For a Few Dollars More (1965)	83,466
+111.	8.3	Pan's Labyrinth (2006)	277,161
+112.	8.3	Downfall (2004)	149,184
+113.	8.3	The Great Escape (1963)	98,594
+114.	8.2	Mr. Smith Goes to Washington (1939)	49,280
+115.	8.2	Up (2009)	318,067
+116.	8.2	On the Waterfront (1954)	61,965
+117.	8.2	Toy Story (1995)	318,808
+118.	8.2	The Elephant Man (1980)	98,685
+119.	8.2	The Seventh Seal (1957)	65,911
+120.	8.2	Heat (1995)	260,377
+121.	8.2	The General (1926)	31,041
+122.	8.2	The Maltese Falcon (1941)	73,323
+123.	8.2	Blade Runner (1982)	293,232
+124.	8.2	Gran Torino (2008)	314,889
+125.	8.2	Rebecca (1940)	54,480
+126.	8.2	Wild Strawberries (1957)	36,808
+127.	8.2	The Kid (1921)	30,079
+128.	8.2	Scarface (1983)	300,875
+129.	8.2	Fargo (1996)	255,898
+130.	8.2	The Big Lebowski (1998)	307,476
+131.	8.2	Touch of Evil (1958)	47,507
+132.	8.2	Ran (1985)	49,959
+133.	8.2	The Deer Hunter (1978)	144,925
+134.	8.2	Cool Hand Luke (1967)	75,459
+135.	8.2	The Gold Rush (1925)	36,614
+136.	8.1	Lock, Stock and Two Smoking Barrels (1998)	243,883
+137.	8.1	Sin City (2005)	414,967
+138.	8.1	No Country for Old Men (2007)	352,983
+139.	8.1	It Happened One Night (1934)	38,651
+140.	8.1	Strangers on a Train (1951)	56,689
+141.	8.1	The Avengers (2012)	473,797
+142.	8.1	Jaws (1975)	235,699
+143.	8.1	The Sixth Sense (1999)	421,147
+144.	8.1	Platoon (1986)	180,540
+145.	8.1	Casino (1995)	191,734
+146.	8.1	The Thing (1982)	155,249
+147.	8.1	High Noon (1952)	50,989
+148.	8.1	The Wizard of Oz (1939)	169,428
+149.	8.1	Trainspotting (1996)	272,796
+150.	8.1	Butch Cassidy and the Sundance Kid (1969)	91,765
+151.	8.1	Hotel Rwanda (2004)	160,760
+152.	8.1	Kill Bill: Vol. 1 (2003)	418,471
+153.	8.1	Good Will Hunting (1997)	311,582
+154.	8.1	Warrior (2011)	159,085
+155.	8.1	The Secret in Their Eyes (2009)	63,212
+156.	8.1	Annie Hall (1977)	112,307
+157.	8.1	Gone with the Wind (1939)	132,754
+158.	8.1	Notorious (1946)	47,152
+159.	8.1	The Grapes of Wrath (1940)	37,484
+160.	8.1	Into the Wild (2007)	225,433
+161.	8.1	V for Vendetta (2005)	444,088
+162.	8.1	Life of Brian (1979)	163,104
+163.	8.1	My Neighbor Totoro (1988)	74,031
+164.	8.1	Finding Nemo (2003)	350,370
+165.	8.1	How to Train Your Dragon (2010)	206,492
+166.	8.1	The King's Speech (2010)	245,927
+167.	8.1	Dial M for Murder (1954)	56,925
+168.	8.1	There Will Be Blood (2007)	224,275
+169.	8.1	Ben-Hur (1959)	94,839
+170.	8.1	The Terminator (1984)	333,397
+171.	8.1	The Night of the Hunter (1955)	39,835
+172.	8.1	The Big Sleep (1946)	42,365
+173.	8.1	Network (1976)	61,746
+174.	8.1	Million Dollar Baby (2004)	267,131
+175.	8.1	Stand by Me (1986)	159,468
+176.	8.1	The Hobbit: An Unexpected Journey (2012)	255,604
+177.	8.1	Groundhog Day (1993)	249,963
+178.	8.1	Donnie Darko (2001)	357,153
+179.	8.1	Twelve Monkeys (1995)	281,312
+180.	8.1	Dog Day Afternoon (1975)	111,297
+181.	8.1	Black Swan (2010)	324,588
+182.	8.1	Amores Perros (2000)	108,037
+183.	8.1	The 400 Blows (1959)	40,550
+184.	8.1	Mary and Max (2009)	56,979
+185.	8.1	The Bourne Ultimatum (2007)	285,233
+186.	8.1	Life of Pi (2012)	151,599
+187.	8.1	Gandhi (1982)	95,957
+188.	8.1	Persona (1966)	31,597
+189.	8.0	Howl's Moving Castle (2004)	103,811
+190.	8.0	The Killing (1956)	39,598
+191.	8.0	The Graduate (1967)	132,867
+192.	8.0	The Princess Bride (1987)	186,135
+193.	8.0	A Beautiful Mind (2001)	295,161
+194.	8.0	8½ (1963)	48,717
+195.	8.0	Slumdog Millionaire (2008)	372,672
+196.	8.0	The Hustler (1961)	38,856
+197.	8.0	Who's Afraid of Virginia Woolf? (1966)	33,554
+198.	8.0	La strada (1954)	28,683
+199.	8.0	Rocky (1976)	192,881
+200.	8.0	The Manchurian Candidate (1962)	48,743
+201.	8.0	Anatomy of a Murder (1959)	28,018
+202.	8.0	The Artist (2011/I)	112,754
+203.	8.0	The Wild Bunch (1969)	46,085
+204.	8.0	The Exorcist (1973)	188,486
+205.	8.0	Stalag 17 (1953)	29,975
+206.	8.0	Rope (1948)	57,365
+207.	8.0	The Man Who Shot Liberty Valance (1962)	35,222
+208.	8.0	Barry Lyndon (1975)	62,063
+209.	8.0	Sleuth (1972)	26,769
+210.	8.0	Stalker (1979)	38,322
+211.	8.0	Infernal Affairs (2002)	56,944
+212.	8.0	In the Name of the Father (1993)	54,373
+213.	8.0	Roman Holiday (1953)	55,422
+214.	8.0	The Truman Show (1998)	344,173
+215.	8.0	Memories of Murder (2003)	27,219
+216.	8.0	Pirates of the Caribbean: The Curse of the Black Pearl (2003)	455,855
+217.	8.0	District 9 (2009)	331,962
+218.	8.0	Monsters, Inc. (2001)	276,617
+219.	8.0	The Diving Bell and the Butterfly (2007)	61,107
+220.	8.0	A Fistful of Dollars (1964)	70,771
+221.	8.0	Ip Man (2008)	70,340
+222.	8.0	Ratatouille (2007)	273,305
+223.	8.0	Harry Potter and the Deathly Hallows: Part 2 (2011)	256,314
+224.	8.0	Star Trek (2009)	290,716
+225.	8.0	A Streetcar Named Desire (1951)	54,198
+226.	8.0	The Perks of Being a Wallflower (2012)	95,134
+227.	8.0	La Haine (1995)	54,747
+228.	8.0	Beauty and the Beast (1991)	162,895
+229.	8.0	Shutter Island (2010)	368,925
+230.	8.0	Rosemary's Baby (1968)	91,365
+231.	8.0	All Quiet on the Western Front (1930)	34,229
+232.	8.0	Nausicaä of the Valley of the Wind (1984)	45,602
+233.	8.0	Rain Man (1988)	234,005
+234.	8.0	3 Idiots (2009)	63,423
+235.	8.0	Harvey (1950)	33,456
+236.	8.0	Incendies (2010)	28,805
+237.	8.0	Mystic River (2003)	224,914
+238.	8.0	Like Stars on Earth (2007)	28,390
+239.	8.0	Jurassic Park (1993)	289,210
+240.	8.0	Manhattan (1979)	68,357
+241.	8.0	Papillon (1973)	52,928
+242.	8.0	The Wrestler (2008)	186,987
+243.	8.0	Spring, Summer, Fall, Winter... and Spring (2003)	36,821
+244.	8.0	Nosferatu (1922)	47,519
+245.	8.0	The Help (2011)	148,940
+246.	8.0	Big Fish (2003)	253,092
+247.	8.0	In the Mood for Love (2000)	43,515
+248.	7.9	The Untouchables (1987)	146,006
+249.	7.9	Arsenic and Old Lace (1944)	41,306
+250.	7.9	Castle in the Sky (1986)	47,325

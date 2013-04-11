@@ -1,0 +1,517 @@
+Aarhus
+Afghanistan
+Africa
+Alaska
+Albania
+Aleppo
+Algeria
+Alps
+Amalfi coast
+Amazon
+American Samoa
+Amsterdam
+Andalucia
+Andorra
+Angkor Wat
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Antwerp
+Arctic
+Argentina
+Arles
+Armenia
+Aruba
+Asia
+Athens
+Auckland
+Austin
+Australasia
+Australia
+Austria
+Avignon
+Azerbaijan
+Azores
+Baden-Baden
+Bahamas
+Bahrain
+Balearic Islands
+Bali
+Bangkok
+Bangladesh
+Barbados
+Barcelona
+Barnsley
+Basque country
+Bath
+Beijing
+Beirut
+Belarus
+Belfast
+Belgium
+Belize
+Benin
+Bergen
+Berkshire
+Berlin
+Bermuda
+Bhutan
+Bilbao
+Birmingham
+Bloemfontein
+Bolivia
+Bologna
+Bordeaux
+Bosnia-Herzegovina
+Boston
+Botswana
+Bournemouth
+Bradford
+Bratislava
+Brazil
+Brighton
+Brisbane
+Bristol
+Brittany
+Bruges
+Brunei
+Brussels
+Bucharest
+Budapest
+Buenos Aires
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cairo
+Calais
+California
+Cambodia
+Cambridge
+Cameroon
+Canada
+Canary Islands
+Canterbury
+Cape Cod
+Cape Town
+Cape Verde
+Caracas
+Carcassonne
+Cardiff
+Caribbean
+Casablanca
+Catalonia
+Cayman Islands
+Central African Republic
+Chad
+Chamonix
+Channel Islands
+Chester
+Chicago
+Chile
+China
+Chios
+Christmas Island
+Cocos Island
+Cologne
+Colombia
+Colorado
+Comoros
+Congo Brazzaville
+Cook Islands
+Copenhagen
+Corfu
+Cork
+Cornwall
+Corsica
+Costa Rica
+Cotswolds
+Crete
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Dakar
+Damascus
+Delhi
+Democratic Republic of Congo
+Denmark
+Denver
+Derbyshire
+Detroit
+Devon
+Djibouti
+Dolomites
+Dominica
+Dominican Republic
+Dordogne
+Dorset
+Dresden
+Dubai
+Dublin
+Dubrovnik
+Durban
+Ecuador
+Edinburgh
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Essex
+Estonia
+Ethiopia
+Europe
+European Union
+Exeter
+Falkland Islands
+Faroe Islands
+Fez
+Fiji
+Finland
+Florence
+Florida
+France
+Frankfurt
+French Guiana
+Gabon
+Galway
+Galápagos Islands
+Gambia
+Genoa
+Georgia
+Germany
+Gerona
+Ghana
+Ghent
+Gibraltar
+Glasgow
+Glastonbury
+Gloucestershire
+Goa
+Gothenburg
+Granada
+Graz
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Hamburg
+Hastings
+Hawaii
+Helsinki
+Honduras
+Hong Kong
+Hungary
+The Hague
+Ibiza
+Iceland
+India
+Indonesia
+Inverness
+Iran
+Iraq
+Ireland
+Isle of Skye
+Isle of Wight
+Israel
+Istanbul
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jerusalem
+Johannesburg
+Jordan
+Jura
+Karachi
+Kashmir
+Kazakhstan
+Kent
+Kentucky
+Kenya
+Kerala
+Kiev
+Kiribati
+Kolkata
+Kosovo
+Krakow
+Kuala Lumpur
+Kuwait
+Kyoto
+Kyrgyzstan
+La Paz
+La Plagne
+Ladakh
+Lahore
+Lake District
+Lancashire
+Laos
+Lapland
+Las Vegas
+Latvia
+Lausanne
+Lebanon
+Leeds
+Leicester
+Lesotho
+Libya
+Liechtenstein
+Lille
+Lima
+Limerick
+Lincolnshire
+Lisbon
+Lithuania
+Liverpool
+Liège
+Ljubljana
+London
+Los Angeles
+Luxembourg
+Lyon
+Macau
+Macedonia
+Madagascar
+Madrid
+Malawi
+Malaysia
+Maldives
+Mali
+Mallorca
+Malmo
+Malta
+Manchester
+Manila
+Mantua
+Marrakech
+Marseille
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mecca
+Melbourne
+Mexico
+Mexico City
+Miami
+Micronesia
+Middle East
+Milan
+Moldova
+Monaco
+Mongolia
+Montana
+Montenegro
+Montreal
+Montserrat
+Morocco
+Moscow
+Mozambique
+Mumbai
+Munich
+Murcia
+Namibia
+Naples
+Nauru
+Nelspruit
+Nepal
+Netherlands
+New Caledonia
+New England
+New Forest
+New Orleans
+New York
+New Zealand
+Newcastle
+Nicaragua
+Nice
+Niger
+Nigeria
+Niue
+Norfolk
+Norfolk Island
+Normandy
+North Korea
+North and Central America
+Northern Ireland
+Norway
+Nottingham
+Nimes
+Oman
+Oporto
+Osaka
+Oslo
+Oxford
+Pakistan
+Palau
+Palestine
+Palma
+Panama
+Papua New Guinea
+Paraguay
+Paris
+Patagonia
+Peak District
+Perth
+Peru
+Philippines
+Phnom Penh
+Pisa
+Pitcairn
+Pnomh Penh
+Poland
+Polokwane
+Polynesia
+Port Elizabeth
+Portland USA
+Portsmouth
+Portugal
+Poznan
+Prague
+Pretoria
+Provence
+Puerto Rico
+Pyrenees
+Qatar
+Rajasthan
+Rangoon
+Reading
+Red Sea
+Reykjavik
+Riga
+Rio de Janeiro
+Romania
+Rome
+Rotterdam
+Russia
+Rustenburg
+Rwanda
+Réunion
+São Paulo
+Saint Kitts and Nevis
+Saint Vincent and the Grenadines
+Salisbury
+Salonika
+Salzburg
+Samoa
+San Francisco
+San Marino
+San Sebastián
+Santiago de Compostela
+Sardinia
+Saudi Arabia
+Scotland
+Seattle
+Senegal
+Seoul
+Serbia
+Serbia and Montenegro
+Seville
+Seychelles
+Shanghai
+Sicily
+Sierra Leone
+Singapore
+Skegness
+Slovakia
+Slovenia
+Snowdonia
+Solomon Islands
+Somalia
+South Africa
+South America
+South Korea
+Spain
+Sri Lanka
+St Etienne
+St Helena
+St Lucia
+St Petersburg
+St Tropez
+Staffordshire
+Stockholm
+Strasbourg
+Stratford-upon-Avon
+Sudan
+Suffolk
+Suriname
+Swaziland
+Sweden
+Switzerland
+Sydney
+Syria
+Taiwan
+Tajikistan
+Tallinn
+Tangier
+Tanzania
+Tasmania
+Tbilisi
+Tel Aviv
+Texas
+Thailand
+Tibet
+Timor-Leste
+Togo
+Tokyo
+Tonga
+Toronto
+Torquay
+Toulouse
+Trinidad and Tobago
+Tromso
+Tunis
+Tunisia
+Tupelo
+Turin
+Turkey
+Turkmenistan
+Tuscany
+Tuvalu
+Uganda
+Ukraine
+Umbria
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Utah
+Uzbekistan
+British Virgin Islands
+US Virgin Islands
+Val d'Isère
+Valencia
+Vancouver
+Vanuatu
+Vatican City State
+Venezuela
+Venice
+Verona
+Vienna
+Vietnam
+Vilnius
+Volgograd
+Wales
+Warsaw
+Washington DC
+Wellington
+Western Sahara
+Worcester
+Wroclaw
+Yekaterinburg
+Yemen
+Yorkshire
+Zagreb
+Zaire
+Zambia
+Zimbabwe
+Zurich

@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Unjumble.tool"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Unjumble" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <StackPanel Orientation="Horizontal">
+            <TextBlock Text="unjumble" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+                <TextBlock Name="count" Width="155" FontSize="42" TextAlignment="Right" TextOptions.TextHintingMode="Animated"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox x:Name="list1" HorizontalAlignment="Left" Margin="0,148,0,0" VerticalAlignment="Top" Width="456" FontSize="28"  >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" Tap="TextBlock_Tap_1"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <CheckBox x:Name="chk1" Content="Use all" HorizontalAlignment="Left" Margin="0,71,0,0" VerticalAlignment="Top" Checked="chk1_Checked" Unchecked="chk1_Unchecked"/>
+            <TextBox x:Name="tt" HorizontalAlignment="Left" Height="72" Margin="0,-1,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="456"/>
+            <CheckBox x:Name="leng" Content="Length" HorizontalAlignment="Left" Margin="222,71,0,0" VerticalAlignment="Top" Checked="leng_Checked" Unchecked="leng_Unchecked"/>
+            <TextBox x:Name="box" HorizontalAlignment="Left" Height="72" Margin="365,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.739,0.514" InputScope="Number" IsEnabled="False"/>
+            <ProgressBar x:Name="prog" HorizontalAlignment="Left" Height="24" Margin="0,208,0,0" VerticalAlignment="Top" Width="456" IsIndeterminate="True" Visibility="Collapsed"/>
+
+        </Grid>
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="share" Click="ApplicationBarMenuItem_Click_1"/>
+                <shell:ApplicationBarMenuItem Text="message" Click="ApplicationBarMenuItem_Click_2"/>
+                <shell:ApplicationBarMenuItem Text="mail" Click="ApplicationBarMenuItem_Click_3"/>
+
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/appbar.feature.search.rest.png" Text="find" Click="ApplicationBarIconButton_Click_1"  />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
